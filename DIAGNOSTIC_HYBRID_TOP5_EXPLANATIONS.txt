@@ -1,0 +1,34 @@
+1. Telaga Kemuning (Hybrid=0.400; Rule=0.000; Content=1.000)
+   - Jenis Wisata: Taman Rekreasi
+   - Jumlah Fasilitas: 7
+   - Contoh fitur konten (raw score): 1.0000000000000002
+   - No rank change vs Rule-based ranking.
+   - Distinctiveness: 36.3% (higher = more unique)
+
+2. Drini Park (Hybrid=0.400; Rule=0.000; Content=1.000)
+   - Jenis Wisata: Taman Rekreasi
+   - Jumlah Fasilitas: 7
+   - Contoh fitur konten (raw score): 1.0000000000000002
+   - No rank change vs Rule-based ranking.
+   - Distinctiveness: 36.3% (higher = more unique)
+
+3. Satoloka (Hybrid=0.400; Rule=0.000; Content=1.000)
+   - Jenis Wisata: Taman Rekreasi
+   - Jumlah Fasilitas: 7
+   - Contoh fitur konten (raw score): 1.0000000000000002
+   - No rank change vs Rule-based ranking.
+   - Distinctiveness: 36.3% (higher = more unique)
+
+4. Kaliurang Park Botanical Garden  (Hybrid=0.400; Rule=0.000; Content=1.000)
+   - Jenis Wisata: Taman Rekreasi
+   - Jumlah Fasilitas: 7
+   - Contoh fitur konten (raw score): 1.0000000000000002
+   - No rank change vs Rule-based ranking.
+   - Distinctiveness: 36.3% (higher = more unique)
+
+5. Gembira Loka Zoo (Hybrid=0.400; Rule=0.000; Content=1.000)
+   - Jenis Wisata: Taman Rekreasi
+   - Jumlah Fasilitas: 7
+   - Contoh fitur konten (raw score): 1.0000000000000002
+   - No rank change vs Rule-based ranking.
+   - Distinctiveness: 36.3% (higher = more unique)

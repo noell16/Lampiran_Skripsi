@@ -1,0 +1,16 @@
+Metric,Value
+Total Destinasi,315
+Total Features (TF-IDF),11
+Density TF-IDF Matrix,72.73%
+Mean Cosine Similarity,0.7338
+Median Cosine Similarity,0.6271
+Std Cosine Similarity,0.2132
+Min Cosine Similarity,0.3904
+Max Cosine Similarity,1.0000
+Percentage High Similarity (>0.8),37.5%
+Percentage Medium Similarity (0.5-0.8),52.8%
+Percentage Low Similarity (<0.5),9.7%
+Mean Facilities per Destination,7.00
+Std Facilities per Destination,0.00
+Unique Feature Combinations,4
+Duplicate Content Ratio,98.73%
